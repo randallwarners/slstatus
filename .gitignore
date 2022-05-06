@@ -1,0 +1,4 @@
+components
+slstatus
+slstatus.o
+util.o
